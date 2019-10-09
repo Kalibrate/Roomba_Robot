@@ -1,0 +1,11 @@
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.dll.config
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.deps.json
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.runtimeconfig.json
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.runtimeconfig.dev.json
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.dll
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\bin\Debug\netcoreapp2.2\Roomba_Robot.pdb
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\obj\Debug\netcoreapp2.2\Roomba_Robot.AssemblyInfoInputs.cache
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\obj\Debug\netcoreapp2.2\Roomba_Robot.AssemblyInfo.cs
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\obj\Debug\netcoreapp2.2\Roomba_Robot.dll
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\obj\Debug\netcoreapp2.2\Roomba_Robot.pdb
+F:\Benny\New folder\Roomba_Robot\Roomba_Robot\obj\Debug\netcoreapp2.2\Roomba_Robot.csprojAssemblyReference.cache
